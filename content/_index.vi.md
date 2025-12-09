@@ -23,8 +23,7 @@ chapter: false
 
 &emsp; **Thời gian thực tập:** Từ ngày 08/09/2025 đến ngày 09/12/2025
 
-![Your profile picture](/images/linhne.jpg)x  
-
+<img src="/images/linhne.jpg" class="img-responsive" style="max-width:300px; display:block; margin:auto;">
 
 ### Nội dung báo cáo
 

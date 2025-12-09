@@ -146,18 +146,6 @@
                 href="//localhost:1313/vi/5-workshop/5.4-ai-development/5.4.2-data-strategy/"
                 />
   </url><url>
-    <loc>//localhost:1313/vi/2-proposal/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/2-proposal/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="//localhost:1313/vi/2-proposal/"
-                />
-  </url><url>
     <loc>//localhost:1313/vi/4-eventparticipated/4.2-event2/</loc>
     <xhtml:link
                 rel="alternate"
@@ -648,6 +636,18 @@
                 rel="alternate"
                 hreflang="vi"
                 href="//localhost:1313/vi/categories/"
+                />
+  </url><url>
+    <loc>//localhost:1313/vi/2-proposal/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/2-proposal/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="//localhost:1313/vi/2-proposal/"
                 />
   </url><url>
     <loc>//localhost:1313/vi/tags/</loc>
