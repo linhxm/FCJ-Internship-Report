@@ -1,6 +1,6 @@
 ---
 title: "Đề Án"
-weight: 2d:\COMP\AWS_FCJ\teej_sorcererxstreme\public\images\logo.jpg
+weight: 2
 chapter: false
 pre: " <b> 2. </b> "
 ---
